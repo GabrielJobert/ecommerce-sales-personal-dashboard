@@ -1,0 +1,18 @@
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# Data folders
+data_raw/
+data_analytics/
+data_transformed/
+downloads/
+
+# OS files
+.DS_Store
